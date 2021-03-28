@@ -1,0 +1,139 @@
+body{
+margin: 0;
+text-align: center;
+background-color: #ccf2f4;
+color: #40514E;
+font-family: 'Noto Serif', serif;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+  margin-bottom: 10px;
+  margin-top: 40px;
+
+}
+h2{
+  color: #11999E;
+  font-size: 260%;
+  font-family: 'Kiwi Maru', serif;
+}
+h3{
+  color: #11999E;
+  font-size:140%;
+
+}
+a{
+    color: #11999E;
+
+}
+a:hover{
+  color:#EAF6F6;
+}
+.para{
+  font-family: 'Architects Daughter', cursive;
+  font-size: 2.5rem;
+  margin-top: 10px;
+  color: #66BFBF;
+  font-weight: normal;
+
+
+}
+.ProfileImg{
+  vertical-align: middle;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.skillimg1{
+  width:30%;
+  float: left;
+  margin:50px 30px;
+}
+.skillimg2{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+.image{
+  border-radius: 50%;
+  margin-top: 100px;
+}
+
+.firstcloud{
+  position: absolute;
+  top: 350px;
+  left: 300px;
+
+}
+.secondcloud{
+  position: absolute;
+  top: 50px;
+  right:300px;
+}
+
+.skill-row{
+  width:50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+
+}
+.top-container{
+  position:relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+  background-color: white;
+}
+.bottom-container{
+  background-color: #66BFBF;
+
+}
+.contact-hr{
+  margin-top: 120px;
+}
+hr{
+  border-style: dotted;
+  border-top-width: 9px;
+  border-bottom-width:0;
+  width: 7%;
+  border-color: #EAF6F6;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.btn{
+  background-color:#11999E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 60px 100px;
+    cursor: pointer;
+    border-radius: 8%;
+    font-family: 'Nunito Sans', sans-serif;
+
+  }
+  .btn:hover{
+    background-color:#7eca9c;
+  }
+  .footer-link{
+    border: none;
+    padding:40px;
+    text-decoration: none;
+    font-family: 'Kiwi Maru', serif;
+    display: inline-block;
+    color: #11999E;
+  }
+  .copyright{
+    font-family: 'Kiwi Maru', serif;
+    color:#EAF6F6;
+    padding-bottom: 50px;
+    font-size: 80%;
+  }
